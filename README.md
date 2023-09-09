@@ -13,7 +13,7 @@ Welcome to the official website of **AI Resume Writer**: Let AI Write your resum
 
 ---
 
-$${\color{blue}About}$$
+$${\header\color{blue}About}$$
 
 AI Resume Writer is a revolutionary app that leverages cutting-edge artificial intelligence to guide you in creating a professional resume tailored to your experiences and the industry you're targeting. Crafting your professional story has never been so effortless.
 
