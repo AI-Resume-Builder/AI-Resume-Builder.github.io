@@ -1,5 +1,3 @@
-# AI Resume Writer: Let AI Write your resume
-
 ## Download Now
 
 <p align="center">
@@ -11,7 +9,7 @@
     </a>
 </p>
 
-Welcome to the official website of **AI Resume Writer** - where AI meets your career journey to help you craft the perfect resume.
+Welcome to the official website of **AI Resume Writer**: Let AI Write your resume
 
 ---
 
