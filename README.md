@@ -1,4 +1,4 @@
-<p align="center">
+<p>
     <a href="https://apps.apple.com/ca/app/ai-resume-writer/id6463698204">
         <img src="https://raw.githubusercontent.com/AI-Resume-Builder/airesumewriter.github.io/main/get-it-apple.jpeg" alt="Available on the App Store" width="150">
     </a>
@@ -6,6 +6,7 @@
         <img src="https://raw.githubusercontent.com/AI-Resume-Builder/airesumewriter.github.io/main/get-it-android.png" alt="Available on Google Play" width="150">
     </a>
 </p>
+## **[Download Now](https://apps.apple.com/ca/app/ai-resume-writer/id6463698204)**
 
 Welcome to the official website of **AI Resume Writer**: Let AI Write your resume
 
