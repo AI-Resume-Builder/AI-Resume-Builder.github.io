@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://apps.apple.com/ca/app/ai-resume-writer/id6463698204">
-        <img src="https://raw.githubusercontent.com/AI-Resume-Builder/airesumewriter.github.io/main/get-it-apple.jpeg" alt="Available on the App Store" width="150">
+        <img src="https://raw.githubusercontent.com/AI-Resume-Builder/AI-Resume-Builder.github.io/main/get-apple-store.jpg" alt="Available on the App Store" width="150">
     </a>
     <a href="https://play.google.com/store/apps/details?id=com.wloo.airesume">
         <img src="https://raw.githubusercontent.com/AI-Resume-Builder/airesumewriter.github.io/main/get-it-android.png" alt="Available on Google Play" width="150">
