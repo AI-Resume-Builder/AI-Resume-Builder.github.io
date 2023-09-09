@@ -13,11 +13,11 @@ Welcome to the official website of **AI Resume Writer**: Let AI Write your resum
 
 ---
 
-##[About](https://ai-resume-builder.github.io/)
+[##About](https://ai-resume-builder.github.io/)
 
 AI Resume Writer is a revolutionary app that leverages cutting-edge artificial intelligence to guide you in creating a professional resume tailored to your experiences and the industry you're targeting. Crafting your professional story has never been so effortless.
 
-##[Features](https://ai-resume-builder.github.io/)
+[##Features](https://ai-resume-builder.github.io/)
 
 - 🤖 **Advanced AI Assistance**: Get real-time suggestions and feedback.
 - 📝 **Template Library**: Select from a variety of professionally designed resume templates.
@@ -26,7 +26,7 @@ AI Resume Writer is a revolutionary app that leverages cutting-edge artificial i
 - 🔐 **Privacy First**: Your data is yours. We value privacy and keep your data secure.
 
 
-##[Feedback](https://ai-resume-builder.github.io/)
+[##Feedback](https://ai-resume-builder.github.io/)
 
 We're always eager to hear from our users! If you have any feedback or suggestions, or if you'd like to contribute to the project, please don't hesitate to get in touch [here](https://forms.gle/dkonS5PPThD3oqVB7).
 
