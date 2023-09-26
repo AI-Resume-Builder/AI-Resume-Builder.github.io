@@ -1,5 +1,7 @@
 # **[Pilot Ventures](https://ai-resume-builder.github.io/)**
 
+Welcome to AI Resume Writer, an app by Pilot Ventures
+
 <p align="center">
     <a href="https://apps.apple.com/ca/app/ai-resume-writer/id6463698204">
         <img src="https://raw.githubusercontent.com/AI-Resume-Builder/AI-Resume-Builder.github.io/main/get-apple-store.jpg" alt="Available on the App Store" width="150">
