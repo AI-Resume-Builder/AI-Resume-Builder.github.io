@@ -29,8 +29,8 @@ AI Resume Writer - the ultimate tool for crafting impressive resumes effortlessl
 - 🔐 **Privacy First**: Rest assured that your data remains yours. We prioritize privacy and maintain the utmost security for your information.
 
 
-## **[Feedback](https://ai-resume-builder.github.io/)**
+## **[Support](https://ai-resume-builder.github.io/)**
 
-We're always eager to hear from our users! If you have any feedback or suggestions, or if you'd like to contribute to the project, please don't hesitate to get in touch **[here](https://forms.gle/dkonS5PPThD3oqVB7)**.
+We're always eager to hear from our users! If you need any support or want to give feedback, please don't hesitate to get in touch **[here](https://forms.gle/dkonS5PPThD3oqVB7)**.
 
 <img src="https://raw.githubusercontent.com/AI-Resume-Builder/airesumewriter.github.io/main/Group%2040.png" width="200"> 
