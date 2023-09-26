@@ -1,6 +1,8 @@
 # **[Pilot Ventures](https://ai-resume-builder.github.io/)**
 
-Welcome to AI Resume Writer, an app by Pilot Ventures....
+Welcome to AI Resume Writer, an app by Pilot Ventures.
+
+## **[Download Now](https://apps.apple.com/ca/app/ai-resume-writer/id6463698204)**
 
 <p align="center">
     <a href="https://apps.apple.com/ca/app/ai-resume-writer/id6463698204">
@@ -11,9 +13,7 @@ Welcome to AI Resume Writer, an app by Pilot Ventures....
     </a>
 </p>
 
-## **[Download Now](https://apps.apple.com/ca/app/ai-resume-writer/id6463698204)**
-
-Welcome to the official website of **AI Resume Writer**: Let AI Write your resume
+Welcome to the official website of **Pilot Ventures**
 
 ---
 
